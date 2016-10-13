@@ -1,0 +1,42 @@
+{
+  "name": "fsbridge",
+  "version": "0.0.0",
+  "description": "CLI client for the FS-EventBridge filesystem notification server",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "test": "eslint ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechnologyAdvice/fsbridge.git"
+  },
+  "files": [
+    "src"
+  ],
+  "engines": {
+    "node": ">=4.2.0"
+  },
+  "keywords": [
+    "fsevents",
+    "inotify",
+    "docker",
+    "boot2docker",
+    "vm",
+    "file",
+    "watch"
+  ],
+  "author": "TechnologyAdvice <devteam@technologyadvice.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechnologyAdvice/fsbridge/issues"
+  },
+  "homepage": "https://github.com/TechnologyAdvice/fsbridge#readme",
+  "dependencies": {
+    "fs-eventbridge-js": "^0.2.0",
+    "yargs": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.7.1"
+  }
+}

@@ -1,4 +1,6 @@
 # fsbridge [![Build Status](https://travis-ci.org/TechnologyAdvice/fsbridge.svg?branch=master)](https://travis-ci.org/TechnologyAdvice/fsbridge)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/TechnologyAdvice/fsbridge.svg)](https://greenkeeper.io/)
 A command-line client to stream file changes to an [FS-EventBridge](https://github.com/TechnologyAdvice/fs_eventbridge) server.
 
 ## Installation

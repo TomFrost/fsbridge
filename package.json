@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TechnologyAdvice/fsbridge.git"
+    "url": "git+https://github.com/TomFrost/fsbridge.git"
   },
   "files": [
     "src"
@@ -26,12 +26,12 @@
     "file",
     "watch"
   ],
-  "author": "TechnologyAdvice <devteam@technologyadvice.com>",
+  "author": "Tom Shawver <tom@frosteddesign.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TechnologyAdvice/fsbridge/issues"
+    "url": "https://github.com/TomFrost/fsbridge/issues"
   },
-  "homepage": "https://github.com/TechnologyAdvice/fsbridge#readme",
+  "homepage": "https://github.com/TomFrost/fsbridge#readme",
   "dependencies": {
     "fs-eventbridge-js": "^0.2.0",
     "yargs": "^6.0.0"
